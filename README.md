@@ -46,18 +46,6 @@ El objetivo no es solo capturar paquetes, sino interpretar el tráfico, entender
 
 4. Latencia y conectividad
 
- ## Filtros utilizados (ejemplos)
-
-- dns
-
-- http
-
-- tls
-
-- ip.addr == X.X.X.X
-
-- tcp.analysis.retransmission
-
 ## Metodología de análisis
 
 Para cada captura se siguió el siguiente proceso:
