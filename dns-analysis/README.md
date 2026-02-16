@@ -1,6 +1,6 @@
-# 📌 Triage de Alerta – Actividad DNS Anómala
+#  Triage de Alerta – Actividad DNS Anómala
 
-## 🚨 1. Recepción de la alerta
+##  1. Recepción de la alerta
 
 Se recibe una alerta indicando:
 
@@ -12,7 +12,7 @@ Se recibe una alerta indicando:
 
 ---
 
-## 🔎 2. Validación inicial
+##  2. Validación inicial
 
 Se procede a validar la alerta en captura de tráfico.
 
@@ -29,7 +29,7 @@ Se valida:
 
 ---
 
-## 📊 3. Recolección de evidencia
+##  3. Recolección de evidencia
 
 ### Hallazgos:
 
@@ -41,7 +41,7 @@ Se valida:
 
 ---
 
-## 🧠 4. Análisis técnico
+##  4. Análisis técnico
 
 ### Hipótesis consideradas:
 
@@ -58,7 +58,7 @@ Se valida:
 
 ---
 
-## 🎯 5. Clasificación
+##  5. Clasificación
 
 - Impacto potencial: Medio
 - Probabilidad: Media
@@ -68,7 +68,7 @@ No se detecta exfiltración directa, pero el patrón es consistente con comporta
 
 ---
 
-## 📌 6. Decisión
+##  6. Decisión
 
 ### Acciones recomendadas:
 
@@ -78,3 +78,4 @@ No se detecta exfiltración directa, pero el patrón es consistente con comporta
 - Escalar si se detecta tráfico adicional sospechoso (HTTP/HTTPS, DNS TXT, etc).
 
 **Estado:** En observación
+
